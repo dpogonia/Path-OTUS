@@ -15,8 +15,8 @@ SwiftUI.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/Path.git
-cd Path
+git clone https://github.com/dpogonia/Path-OTUS.git
+cd Path-OTUS
 open Path.xcodeproj
 ```
 
